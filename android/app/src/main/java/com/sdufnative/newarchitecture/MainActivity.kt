@@ -1,4 +1,4 @@
-package com.sdufnative
+package com.demo.one
  
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

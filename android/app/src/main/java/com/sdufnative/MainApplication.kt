@@ -1,4 +1,4 @@
-package com.sdufnative
+package com.demo.one
  
 import android.app.Application
 import com.facebook.react.PackageList

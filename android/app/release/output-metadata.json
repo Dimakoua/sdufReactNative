@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.sdufnative",
+  "applicationId": "com.demo.one",
   "variantName": "release",
   "elements": [
     {

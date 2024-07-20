@@ -35,7 +35,7 @@ This repository contains the SDUF React Native application. Follow the instructi
 
 To run the application on an Android device or emulator, execute the following command:
 ```sh
-npx react-native run-android
+npx react-native run-android --reset-cache
 ```
 
 ## Notes
